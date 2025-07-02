@@ -43,8 +43,8 @@ git clone https://github.com/W1lden/BTC_checker.git
 cd BTC_checker/train_compose
 ```
 
-2. Создайте файл `.env`:
-```env
+2. Создайте файл `.env`. Вот пример:
+```env 
 MONGO_INITDB_ROOT_USERNAME=root
 MONGO_INITDB_ROOT_PASSWORD=example
 MONGO_PORT=27017
